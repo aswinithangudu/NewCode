@@ -1,2 +1,1 @@
-# NewCode
-hi thangudu aswini are u awake
+git first repo
